@@ -2,9 +2,6 @@
 
 
 <h3 align="center">A passionate frontend developer from India.</h3>
-
-<img align="right" width="400" src="img.png"  alt="coding" />
-
 <!--p align="left"> <img src="https://komarev.com/ghpvc/?username=sakshisatya&label=Profile%20views&color=0e75b6&style=flat" alt="sakshisatya" /> </p-->
 
 - 🌱 I’m currently learning *Web + DSA + Aptitude*
