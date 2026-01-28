@@ -1,6 +1,6 @@
 <!-- Matrix-Style Header Animation -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=24,26,28,30&height=300&section=header&text=SAKSHI%20GUPTA&fontSize=80&fontColor=A855F7&animation=fadeIn&fontAlignY=35&desc=%3C/%3E%20Frontend%20Developer%20%7C%20UI/UX%20Architect%20%7C%20Open%20Source%20Enthusiast&descAlignY=55&descSize=20&stroke=A855F7&strokeWidth=2"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=350&color=gradient&text=SAKSHI%20GUPTA&reversal=true&desc=Full%20stack%20web%20Developer&descSize=40&descAlign=52"/>
 </div>
 
 <!-- Animated Banner -->
@@ -400,12 +400,7 @@ timeline
 
 </div>
 
-<!-- 3D Contribution Calendar -->
-<div align="center">
-  <a href="https://skyline.github.com/thesakshigupta/2024">
-    <img src="https://img.shields.io/badge/🏙️_VIEW_MY_GITHUB_SKYLINE_3D-A855F7?style=for-the-badge"/>
-  </a>
-</div>
+
 
 <!-- Visitor Counter -->
 <div align="center">
