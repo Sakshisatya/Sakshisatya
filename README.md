@@ -1,303 +1,444 @@
-<!-- Header Banner with Animated Gradient -->
+<!-- Matrix-Style Header Animation -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sakshi%20Gupta&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Frontend%20Developer%20%7C%20UI/UX%20Enthusiast%20%7C%20Code%20Craftsman&descAlignY=52&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=24,26,28,30&height=300&section=header&text=SAKSHI%20GUPTA&fontSize=80&fontColor=A855F7&animation=fadeIn&fontAlignY=35&desc=%3C/%3E%20Frontend%20Developer%20%7C%20UI/UX%20Architect%20%7C%20Open%20Source%20Enthusiast&descAlignY=55&descSize=20&stroke=A855F7&strokeWidth=2"/>
 </div>
 
-<!-- Animated Typing Header -->
+<!-- Animated Banner -->
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%F0%9F%92%AB+Building+Beautiful+Web+Experiences;%E2%9C%A8+Turning+Ideas+into+Pixel+Perfect+Reality;%F0%9F%9A%80+React.js+%7C+JavaScript+%7C+Modern+CSS" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2000&pause=500&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=%24+whoami;%3E+Creative+Frontend+Developer+%F0%9F%92%BB;%24+cat+skills.txt;%3E+React.js+%7C+JavaScript+%7C+Next.js+%7C+TypeScript;%24+echo+%24PASSION;%3E+Building+pixel-perfect+web+experiences+%E2%9C%A8" alt="Terminal Typing SVG"/>
 </p>
 
-<!-- Profile Views & Social Badges -->
-<p align="center">
-  <a href="https://github.com/thesakshigupta">
-    <img src="https://komarev.com/ghpvc/?username=thesakshigupta&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
-  </a>
-  <a href="https://github.com/thesakshigupta?tab=followers">
-    <img src="https://img.shields.io/github/followers/thesakshigupta?label=Followers&style=for-the-badge&color=blue" alt="Followers"/>
-  </a>
-  <a href="https://github.com/thesakshigupta?tab=stars">
-    <img src="https://img.shields.io/github/stars/thesakshigupta?label=Stars&style=for-the-badge&color=gold" alt="Stars"/>
-  </a>
-</p>
-
-<!-- Social Links with Animated Icons -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/webdevelopersakshigupta/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://know-meee.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="mailto:sakshisatya2311@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/thesakshigupta" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- About Me Section -->
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> About Me
-
-<img align="right" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg" width="200" alt="Coding Illustration"/>
-
-```javascript
-const sakshi = {
-    location: "Hariharganj, Jharkhand 🇮🇳",
-    education: "B.Tech CSE @ JBIT, MDU Rohtak",
-    currentFocus: "Building responsive & accessible web apps",
-    lifePhilosophy: "Code with purpose, design with passion 💜"
-};
-```
-
-<br/>
-
-- 🎓 **Computer Science Engineering** student passionate about web technologies
-- 💻 Specializing in **React.js**, **JavaScript**, and **Modern CSS**
-- 🎨 Obsessed with creating **pixel-perfect** & **user-friendly** interfaces
-- 🌱 Currently exploring **Next.js**, **TypeScript** & **Framer Motion**
-- ⚡ Fun fact: I debug with **console.log** like a pro! 😄
-- 🔭 Working on exciting projects at [**know-meee.vercel.app**](https://know-meee.vercel.app/)
-
-<br clear="right"/>
-
-<!-- Skill Stats Animation -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- Tech Stack Section -->
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px"> Tech Stack & Tools
-
-<details open>
-<summary><b>🎨 Frontend Development</b></summary>
-<br/>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,javascript,html,css,tailwind,bootstrap,sass,nextjs&theme=dark&perline=8" alt="Frontend Skills"/>
-</p>
-</details>
-
-<details open>
-<summary><b>💻 Programming Languages</b></summary>
-<br/>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,python,java,c&theme=dark&perline=8" alt="Programming Languages"/>
-</p>
-</details>
-
-<details open>
-<summary><b>🛠️ Tools & Technologies</b></summary>
-<br/>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,nodejs,mongodb,mysql,figma,vercel&theme=dark&perline=9" alt="Tools"/>
-</p>
-</details>
-
-<!-- Interactive Skill Bars -->
-<details>
-<summary><b>📊 Skill Proficiency</b></summary>
-<br/>
-
-| Technology | Proficiency |
-|------------|-------------|
-| React.js | ![90%](https://progress-bar.dev/90/?title=Expert&color=61DAFB&width=200) |
-| JavaScript | ![92%](https://progress-bar.dev/92/?title=Expert&color=F7DF1E&width=200) |
-| HTML5/CSS3 | ![95%](https://progress-bar.dev/95/?title=Advanced&color=E34F26&width=200) |
-| Tailwind CSS | ![85%](https://progress-bar.dev/85/?title=Advanced&color=06B6D4&width=200) |
-| Git/GitHub | ![88%](https://progress-bar.dev/88/?title=Advanced&color=F05032&width=200) |
-| Node.js | ![70%](https://progress-bar.dev/70/?title=Intermediate&color=339933&width=200) |
-| Python | ![75%](https://progress-bar.dev/75/?title=Intermediate&color=3776AB&width=200) |
-
-</details>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- Featured Projects Section -->
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Featured Projects
-
+<!-- Animated Profile Badges -->
 <div align="center">
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=thesakshigupta&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge&logo=github)
+  ![GitHub Followers](https://img.shields.io/github/followers/thesakshigupta?label=FOLLOWERS&style=for-the-badge&color=purple&logo=github)
+  ![GitHub Stars](https://img.shields.io/github/stars/thesakshigupta?label=TOTAL+STARS&style=for-the-badge&color=gold&logo=github)
+  
+</div>
+
+<!-- Quick Social Links -->
+<div align="center">
+  
+  [![Portfolio](https://img.shields.io/badge/🌐_PORTFOLIO-000?style=for-the-badge&logo=vercel)](https://know-meee.vercel.app/)
+  [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/webdevelopersakshigupta/)
+  [![Gmail](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sakshisatya2311@gmail.com)
+  [![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thesakshigupta)
+  
+</div>
+
+<!-- Animated Line Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- Terminal-Style About Section -->
+## <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="35px"> &nbsp;`$ cat about_me.md`
 
 <table>
 <tr>
-  <td width="50%">
-    <h3 align="center">🎯 React Dashboard</h3>
-    <div align="center">
-      <a href="https://github.com/thesakshigupta/react-dashboard" target="_blank">
-        <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=thesakshigupta&repo=react-dashboard&theme=react&bg_color=0D1117&hide_border=true&icon_color=F8D866&title_color=A855F7&text_color=FFFFFF" alt="React Dashboard"/>
-      </a>
-      <p><strong>React.js • JavaScript • Tailwind CSS</strong></p>
-      <p>Modern web app with reusable UI components & responsive layouts</p>
-    </div>
-  </td>
-  <td width="50%">
-    <h3 align="center">✨ Portfolio Website</h3>
-    <div align="center">
-      <a href="https://github.com/thesakshigupta/know-me" target="_blank">
-        <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=thesakshigupta&repo=know-me&theme=react&bg_color=0D1117&hide_border=true&icon_color=F8D866&title_color=A855F7&text_color=FFFFFF" alt="Portfolio"/>
-      </a>
-      <p><strong>Next.js • React • Framer Motion</strong></p>
-      <p>Modern portfolio with 3D elements & glassmorphism design</p>
-    </div>
-  </td>
+<td width="55%" valign="top">
+
+```js
+/**
+ * @developer Sakshi Gupta
+ * @description Frontend Developer crafting the web
+ * @version 2024.01
+ */
+ 
+class Developer {
+    constructor() {
+        this.name = "Sakshi Gupta";
+        this.role = "Frontend Developer";
+        this.location = "India 🇮🇳";
+        this.languages = ["JavaScript", "Python", "Java"];
+        this.hobbies = ["Coding","Problem Solving", "Learning"];
+    }
+    
+    get currentStatus() {
+        return {
+            learning: ["Next.js", "TypeScript", "Backend"],
+            working_on: "Building beautiful web experiences",
+            looking_for: "Open source collaborations",
+            fun_fact: "I debug with console.log() 🐛"
+        };
+    }
+    
+    sayHi() {
+        console.log("Thanks for dropping by! Let's connect 🚀");
+    }
+}
+
+const sakshi = new Developer();
+sakshi.sayHi();
+```
+
+</td>
+<td width="45%" valign="top">
+
+<img align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%"/>
+
+### 🎯 Quick Facts
+
+- 🔭 Building **[know-meee.vercel.app](https://know-meee.vercel.app/)**
+- 🌱 Learning **Next.js, TypeScript & Three.js**
+- 💬 Ask me about **React, JavaScript, CSS**
+- 📫 Reach me at **sakshisatya2311@gmail.com**
+- ⚡ Fun Fact: **Night owl coder 🦉**
+
+### 🏆 Achievements
+
+- 🎓 Diploma from **BIT Mesra** with **8.28 CGPA**
+- 💼 Interned at **Jharkhand Govt Tool Room**
+- 🌟 B.Tech CSE at **JBIT, MDU Rohtak**
+
+</td>
 </tr>
 </table>
 
-<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<a href="https://github.com/thesakshigupta?tab=repositories" target="_blank">
-  <img src="https://img.shields.io/badge/View%20All%20Repositories-4B0082?style=for-the-badge&logo=github&logoColor=white" alt="All Repos"/>
+<!-- Real-time Clock & Status -->
+## <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="35px"> &nbsp;`$ systemctl status developer`
+
+<div align="center">
+
+<!-- Dynamic Status Cards -->
+<a href="https://github.com/thesakshigupta">
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=thesakshigupta&data=followers,repositories,stars,commits&theme=midnight" alt="GitHub WidgetBox"/>
 </a>
 
 </div>
 
+<!-- Coding Activity Section -->
+<div align="center">
+  <img src="https://img.shields.io/badge/⏱️_CODING_SINCE-2021-blueviolet?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🎯_FOCUS-FRONTEND_DEV-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/☕_COFFEE_CUPS-∞-brown?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🐛_BUGS_FIXED-999+-green?style=for-the-badge"/>
+</div>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- Experience Section -->
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"> Experience & Education
+<!-- Arsenal Section (Tech Stack) -->
+## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35px"> &nbsp;`$ ls -la ~/tech-stack/`
 
+<!-- Primary Weapons -->
 <details open>
-<summary><b>💼 Professional Experience</b></summary>
+<summary><b>⚔️ Primary Weapons (Frontend)</b></summary>
 <br/>
-
-🔧 **Industrial Automation Intern** | *Jharkhand Govt Tool Room, Ranchi*
-> Dec 2023 - Jan 2024
-> - Designed Arduino-based traffic light control system
-> - Developed RFID-based access control prototype
-> - Built multiple IoT prototypes with sensors & controllers
-
-💻 **Computer Hardware Intern** | *University Polytechnic, BIT Mesra*
-> Jan 2024 - Feb 2024
-> - Mastered computer hardware assembly & troubleshooting
-> - Practiced maintenance & basic repair techniques
-
-</details>
-
-<details open>
-<summary><b>🎓 Education</b></summary>
-<br/>
-
-| Degree | Institution | Timeline | Score |
-|--------|-------------|----------|-------|
-| 🎓 **B.Tech CSE** | JBIT, MDU Rohtak | 2024 - Present | Pursuing |
-| 📜 **Diploma Computer Engineering** | BIT Mesra, Ranchi | 2021 - 2024 | CGPA: 8.28 ⭐ |
-| 🏫 **10th Standard** | Stronnat High School | 2020 - 2021 | 85.40% 🏆 |
-
-</details>
-
-<details>
-<summary><b>🏅 Workshops & Certifications</b></summary>
-<br/>
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Advanced%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
-  <img src="https://img.shields.io/badge/Industrial%20Robotics%20%26%20IoT-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Robotics"/>
-  <img src="https://img.shields.io/badge/Sensors%20%26%20Actuators-FF6F00?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Sensors"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,javascript,typescript,html,css,tailwind,sass,bootstrap,redux&theme=dark&perline=10"/>
+  </a>
 </p>
 
+<div align="center">
+  
+| Technology | Experience Level | Projects |
+|:---:|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=react&theme=dark" width="20"/> React.js | ████████████░░ 90% | 10+ |
+| <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="20"/> Next.js | ██████████░░░░ 75% | 5+ |
+| <img src="https://skillicons.dev/icons?i=javascript&theme=dark" width="20"/> JavaScript | █████████████░ 95% | 15+ |
+| <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="20"/> Tailwind | ███████████░░░ 85% | 8+ |
+
+</div>
+</details>
+
+<!-- Secondary Weapons -->
+<details open>
+<summary><b>🗡️ Secondary Weapons (Languages)</b></summary>
+<br/>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,python,java,c,cpp&theme=dark&perline=5"/>
+  </a>
+</p>
+</details>
+
+<!-- Utility Belt -->
+<details open>
+<summary><b>🛠️ Utility Belt (Tools & Platforms)</b></summary>
+<br/>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux,nodejs,mongodb,mysql,vercel,netlify,npm,postman&theme=dark&perline=12"/>
+  </a>
+</p>
+</details>
+
+<!-- Currently Learning -->
+<details>
+<summary><b>📚 Currently Learning (XP Grinding)</b></summary>
+<br/>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=typescript,threejs,graphql,docker,aws&theme=dark&perline=5"/>
+  </a>
+</p>
 </details>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- GitHub Stats Section -->
-## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="30px"> GitHub Analytics
+## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="35px"> &nbsp;`$ git log --oneline --graph`
+
+<!-- GitHub Activity Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thesakshigupta&custom_title=🔥%20Contribution%20Heatmap&bg_color=0D1117&color=A855F7&line=9333EA&point=FFFFFF&area_color=7C3AED&title_color=FFFFFF&area=true&hide_border=true&radius=16" width="100%"/>
+</p>
+
+<!-- Stats Row 1 -->
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=thesakshigupta&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=C9D1D9&ring_color=A855F7&include_all_commits=true&count_private=true&line_height=28" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=thesakshigupta&theme=midnight-purple&hide_border=true&background=0D1117&stroke=A855F7&ring=A855F7&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=A855F7&currStreakLabel=A855F7&sideLabels=C9D1D9&dates=8B949E" alt="Streak Stats"/>
+</div>
+
+<!-- Stats Row 2 -->
+<div align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thesakshigupta&layout=donut-vertical&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
+</div>
+
+<!-- GitHub Metrics -->
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thesakshigupta&theme=midnight_purple" width="100%"/>
+</div>
 
 <div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thesakshigupta&theme=midnight_purple" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thesakshigupta&theme=midnight_purple" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=thesakshigupta&theme=midnight_purple&utcOffset=5.5" width="32%"/>
+</div>
 
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=thesakshigupta&custom_title=Sakshi's%20Contribution%20Graph&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF&area_color=9370DB&title_color=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" width="100%"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- GitHub Trophies -->
+## <img src="https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width="35px"> &nbsp;`$ cat achievements.log`
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=thesakshigupta&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+</div>
 
 <br/>
 
-<!-- Stats Cards -->
-<a href="https://github.com/thesakshigupta">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thesakshigupta&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thesakshigupta&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF&langs_count=8" alt="Top Languages"/>
+<!-- Achievement Badges -->
+<div align="center">
+  <img src="https://img.shields.io/badge/🏅_OPEN_SOURCE-CONTRIBUTOR-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🎯_PROJECTS-15+-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/📚_COMMITS-500+-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/⭐_REPOS-10+-gold?style=for-the-badge"/>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- Featured Projects -->
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35px"> &nbsp;`$ tree ~/projects/`
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎯 React Dashboard
+<p align="center">
+  <a href="https://github.com/thesakshigupta/react-dashboard">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thesakshigupta&repo=react-dashboard&theme=midnight-purple&hide_border=true&bg_color=0D1117"/>
+  </a>
+</p>
+
+
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+</p>
+
+</td>
+<td width="50%">
+
+### ✨ Portfolio Website
+<p align="center">
+  <a href="https://github.com/thesakshigupta/know-me">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thesakshigupta&repo=know-me&theme=midnight-purple&hide_border=true&bg_color=0D1117"/>
+  </a>
+</p>
+
+
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Framer-0055FF?style=flat&logo=framer&logoColor=white"/>
+</p>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<a href="https://github.com/thesakshigupta?tab=repositories">
+  <img src="https://img.shields.io/badge/📂_VIEW_ALL_REPOSITORIES-A855F7?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<br/><br/>
+</div>
 
-<!-- Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com?user=thesakshigupta&theme=midnight-purple&hide_border=true&background=0D1117&stroke=A855F7&ring=A855F7&fire=FF9655&currStreakLabel=FFFFFF&sideLabels=A855F7&dates=9E9E9E" alt="Streak Stats"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- Experience Timeline -->
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35px"> &nbsp;`$ history | grep experience`
+
+```mermaid
+timeline
+    title 🚀 My Developer Journey
+    
+    2021 : Started Diploma at BIT Mesra
+         : First line of code
+         : Fell in love with coding
+    
+    2022 : Learned HTML, CSS, JavaScript
+         : Built first web projects
+         : Workshop on IoT & Robotics
+    
+    2023 : Learned more about web development
+         : Internship at Jharkhand Govt Tool Room
+         : Built IoT prototypes
+    
+    2024 : Graduated with 8.28 CGPA
+         : Started B.Tech CSE
+         : Building production apps
+    
+    2025 : Learning Full Stack development
+         : Contributing to open source
+         : AI + Web Development
+```
+
+<br/>
+
+<!-- Education Cards -->
+<div align="center">
+
+| 🎓 Degree | 🏛️ Institution | 📅 Duration | 📊 Score |
+|:---|:---|:---:|:---:|
+| **B.Tech CSE** | JBIT, MDU Rohtak | 2024 - Present | *Pursuing* |
+| **Diploma Computer Engg** | BIT Mesra, Ranchi | 2021 - 2024 | **8.28 CGPA** ⭐ |
+| **10th Standard** | Stronnat High School | 2020 - 2021 | **85.40%** 🏆 |
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- Achievements & Trophies -->
-## <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="30px"> GitHub Trophies
+<!-- Dev Quote -->
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35px"> &nbsp;`$ fortune | cowsay`
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=thesakshigupta&theme=discord&no-frame=true&no-bg=true&row=1&column=7&margin-w=15" alt="GitHub Trophies"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Dev Quote"/>
 </div>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- Quote Section -->
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30px"> Random Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-</div>
-
-<br/>
+<!-- ASCII Art -->
+```
+    ╔══════════════════════════════════════════════════════════════╗
+    ║                                                              ║
+    ║     "First, solve the problem. Then, write the code."        ║
+    ║                                        - John Johnson         ║
+    ║                                                              ║
+    ╚══════════════════════════════════════════════════════════════╝
+```
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- Connect Section -->
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30px"> Let's Connect!
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35px"> &nbsp;`$ ping sakshi`
 
 <div align="center">
-  
-<p>I'm always excited to collaborate on innovative projects and connect with fellow developers! Feel free to reach out:</p>
+
+### 🤝 Let's Build Something Amazing Together!
+
+<p>I'm always open to interesting conversations and collaboration opportunities!</p>
 
 <br/>
 
-<a href="https://www.linkedin.com/in/webdevelopersakshigupta/" target="_blank">
-  <img src="https://img.shields.io/badge/Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
-</a>
-<a href="https://know-meee.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/View%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="View Portfolio"/>
+<!-- Animated Connect Buttons -->
+<a href="https://www.linkedin.com/in/webdevelopersakshigupta/">
+  <img src="https://img.shields.io/badge/💼_HIRE_ME!-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:sakshisatya2311@gmail.com">
-  <img src="https://img.shields.io/badge/Send%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Send Email"/>
+  <img src="https://img.shields.io/badge/📧_SAY_HELLO-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://know-meee.vercel.app/">
+  <img src="https://img.shields.io/badge/🌐_MY_PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+<a href="https://github.com/thesakshigupta">
+  <img src="https://img.shields.io/badge/⭐_FOLLOW_ME-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<!-- Fun Animated GIF -->
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%"/>
+<!-- Contribution Snake Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg"/>
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" width="100%"/>
+</picture>
 
 </div>
 
-<!-- Support Section -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- Support & Sponsor -->
 <div align="center">
   
 ### 💜 Show Some Love!
 
-<p>If you find my work interesting, consider giving a ⭐ to my repositories!</p>
+<p>If you like my work, consider starring ⭐ my repos or following me!</p>
 
-<img src="https://img.shields.io/badge/Thanks%20for%20visiting!-A855F7?style=for-the-badge&logo=github&logoColor=white" alt="Thanks"/>
+<a href="https://github.com/thesakshigupta?tab=repositories">
+  <img src="https://img.shields.io/badge/⭐_STAR_MY_REPOS-FFD700?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
 
+</div>
+
+<!-- 3D Contribution Calendar -->
+<div align="center">
+  <a href="https://skyline.github.com/thesakshigupta/2024">
+    <img src="https://img.shields.io/badge/🏙️_VIEW_MY_GITHUB_SKYLINE_3D-A855F7?style=for-the-badge"/>
+  </a>
+</div>
+
+<!-- Visitor Counter -->
+<div align="center">
+  <br/>
+  <img src="https://profile-counter.glitch.me/thesakshigupta/count.svg" alt="Visitor Count"/>
+  <br/>
+  <sub>👁️ You are visitor #</sub>
 </div>
 
 <!-- Footer -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,26,28,30&height=150&section=footer&text=Thanks%20for%20visiting!%20👋&fontSize=24&fontColor=A855F7&animation=fadeIn&fontAlignY=75"/>
 </div>
 
-<!-- Profile Counter at Bottom -->
-<div align="center">
-  <img src="https://profile-counter.glitch.me/thesakshigupta/count.svg" alt="Visitor Count"/>
-</div>
+<!-- Hidden Message for Fellow Developers -->
+<!--
+    ╔═══════════════════════════════════════════════════╗
+    ║                                                   ║
+    ║   👋 Hey fellow developer!                         ║
+    ║                                                   ║
+    ║   If you're reading this, you're awesome!         ║
+    ║   Feel free to fork this README and make it       ║
+    ║   your own. Happy coding! 🚀                       ║
+    ║                                                   ║
+    ║   - Sakshi                                        ║
+    ║                                                   ║
+    ╚═══════════════════════════════════════════════════╝
+-->
 
 ---
 
 <div align="center">
-  <sub>✨ Crafted with 💜 by Sakshi Gupta | © 2024 ✨</sub>
+  <sub>✨ Crafted with 💜 & ☕ by <a href="https://github.com/thesakshigupta">Sakshi Gupta</a> | © 2024</sub>
+  <br/>
+  <sub>🎨 Design inspired by the amazing GitHub community</sub>
 </div>
